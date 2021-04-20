@@ -24,13 +24,13 @@
 
 ## Toolbox
 
--Silicon Labs C8051F020-DK Micro-Controller
-
-	- 2 *   7-Segment (Common Cathode).
-	- 3 *   Switches.
-	- 2 * Push Buttons.
-	- Red LED.
-	- Green LED.
+- Silicon Labs C8051F020-DK Micro-Controller
+- Proteus
+    - 2 *   7-Segment (Common Cathode).
+    - 3 *   Switches.
+    - 2 * Push Buttons.
+    - Red LED.
+    - Green LED.
 
 
 ## Steps Description
